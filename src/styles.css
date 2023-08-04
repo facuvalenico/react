@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.link {
+    text-decoration: none;
+    margin: 10px;
+    color: rgba(255, 255, 255, 0.55);
+    transition: 0.2s ease-in-out;
+}
+
+.link:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+.itemCarrusel {
+    width: 100%;
+    padding-inline: 20%;
+    background-color: rgb(19, 19, 19);
+}
+
+.titulo {
+    text-align: center;
+    margin: 1%;
+}
+
+.parrafo {
+    margin-inline: 5%;
+    padding-bottom: 5%;
+}
+
+.tituloIndex {
+    text-align: center;
+    padding-top: 5%;
+    color: #ED1515;
+    font-weight: bolder;
+    font-family: 'Bolde';
+}
+
+.intro {
+    padding-inline: 35%;
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    color:#212529;
+}
+
+.heroesIndex {
+    text-align: center;
+    margin-bottom: -1%;
+    margin-left: 1.5%;
+}
+
+.podioIndex{
+    text-align: center;
+    margin-bottom: -1%;
+}
+
+.podioImagen{
+    border: 5px ridge silver;
+    width: 8%;
+}
+
+.usuarioIndex{
+    margin-bottom: -2.25%;
+    width: 7%;
+    margin-inline: 9%;
+}
+
+.thor {
+    margin-inline: 1%;
+    width: 12%;
+    margin-bottom: -4.75%;
+}
+
+.hulk {
+    width: 15%;
+    margin-bottom: -6%;
+}
+
+.footer {
+    background-color: #212529;
+    padding-top: 2.5%;
+    color: rgba(255, 255, 255, 0.55);
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btngroup {
+    display: flex;
+    gap: 1%;
+    margin: 2% 5%;
+}
+
+.carousel-caption {
+    font-size: larger;
+}
+
+.textoCarrusel {
+    color: white;
+    background: rgba(0, 0, 0, 0.375);
+    margin-left: -22%;
+    margin-right: -22%;
+    font-size: medium;
+    border-bottom: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 1%;
+    
+}
